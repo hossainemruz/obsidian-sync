@@ -1,0 +1,3 @@
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
+- [Go 101](https://go101.org/)
+- 

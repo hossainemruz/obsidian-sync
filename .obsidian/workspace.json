@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Go/Topics/Type Composition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Type Composition"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +180,41 @@
   },
   "active": "f986ae4e94f9e877",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Go/Topics/Tools.md",
+    "Go/Topics/Testing.md",
+    "Go/Topics/Style Guide.md",
+    "Go/Topics/SSH.md",
+    "Go/Topics/Software Architecture.md",
+    "Go/Topics/Reflection.md",
+    "Go/Topics/Protocol Buffer.md",
+    "Go/Topics/Perfomrance.md",
+    "Go/Topics/Net HTTP.md",
+    "Go/Topics/Interface.md",
+    "Go/Topics/Generics.md",
+    "Go/Topics/File.md",
+    "Go/Topics/Error.md",
+    "Go/Topics/Design Pattern.md",
+    "Go/Topics/Database.md",
+    "Go/Topics/Concurrency.md",
+    "Go/Topics/Compilation.md",
+    "Go/Topics/Code Generation.md",
+    "Go/Topics/Clean Code.md",
+    "Go/Topics/Cache.md",
+    "Go/Topics/Algorithm & Data Structure.md",
+    "Go/Topics/Type Composition.md",
+    "Go/Topics/Time.md",
+    "Go/Books.base",
+    "Go/Websites.md",
+    "Go/Topics",
+    "Go/Books.md",
+    "Welcome.md",
+    "Front-end & UI",
+    "Religious",
+    "MISC",
+    "Python",
+    "Pattern & Practices",
+    "Linux",
+    "System Design",
+    "Go"
   ]
 }

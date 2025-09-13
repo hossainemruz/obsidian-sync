@@ -1,0 +1,20 @@
+properties:
+  note.Status:
+    displayName: Read
+views:
+  - type: table
+    name: Table
+    order:
+      - Name
+      - Authors
+      - Rating
+      - Status
+    sort:
+      - property: Name
+        direction: ASC
+      - property: Rating
+        direction: ASC
+    columnSize:
+      note.Name: 347
+      note.Authors: 289
+      note.Rating: 114
