@@ -1,0 +1,3 @@
+- [Refactoring: clean your code](https://refactoring.guru/refactoring)
+- [Martin Follower](https://martinfowler.com/)
+- 

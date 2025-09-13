@@ -1,0 +1,3 @@
+- [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
+- [There is No Speed Limit](https://sive.rs/kimo)
+- 

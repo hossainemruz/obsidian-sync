@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "MISC/Real-estate Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Real-estate Development"
             }
           }
         ]
@@ -178,8 +178,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f986ae4e94f9e877",
+  "active": "df952d3e9223353c",
   "lastOpenFiles": [
+    "MISC/Productivity.md",
+    "MISC/Real-estate Development.md",
+    "MISC/Good Reads.md",
+    "MISC/AI.md",
+    "Religious/Topics/Last Hour.md",
+    "Pattern & Practices/Topics/TDD.md",
+    "Religious/Topics",
+    "Pattern & Practices/Topics/Clean Architecture.md",
+    "Pattern & Practices/Websites.md",
+    "Pattern & Practices/Topics",
+    "System Design/Topics/Authorization.md",
+    "Kubernetes/Notes/Controller Tricks.md",
+    "System Design/Topics",
+    "Welcome.md",
+    "Kubernetes/Topics/Controllers.md",
+    "Kubernetes/Notes",
+    "Kubernetes/Untitled.md",
+    "Kubernetes/Topics",
     "System Design/README.md",
     "Religious/README.md",
     "Python/README.md",
@@ -194,27 +212,9 @@
     "Go/Topics/Testing.md",
     "Go/Topics/Style Guide.md",
     "Go/Topics/SSH.md",
-    "Go/Topics/Software Architecture.md",
-    "Go/Topics/Reflection.md",
-    "Go/Topics/Protocol Buffer.md",
-    "Go/Topics/Perfomrance.md",
-    "Go/Topics/Net HTTP.md",
-    "Go/Topics/Interface.md",
-    "Go/Topics/Generics.md",
-    "Go/Topics/File.md",
-    "Go/Topics/Error.md",
-    "Go/Topics/Design Pattern.md",
-    "Go/Topics/Database.md",
-    "Go/Topics/Concurrency.md",
-    "Go/Topics/Compilation.md",
     "Go/Topics",
     "Front-end & UI",
     "Religious",
-    "MISC",
-    "Python",
-    "Pattern & Practices",
-    "Linux",
-    "System Design",
-    "Go"
+    "MISC"
   ]
 }
