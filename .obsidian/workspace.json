@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d0319b799bec7f5b",
+    "id": "ad3d5e7c97be427d",
     "type": "split",
     "children": [
       {
-        "id": "72efc64b2f23b079",
+        "id": "86ccc080975ff5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f986ae4e94f9e877",
+            "id": "96b83623480ffbeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/Real-estate Development.md",
+                "file": "MISC/Online Business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real-estate Development"
+              "title": "Online Business"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fe714daaabdedaef",
+    "id": "aa2b77851848ddbc",
     "type": "split",
     "children": [
       {
-        "id": "325c7798a6173e67",
+        "id": "4a495d42b40895f3",
         "type": "tabs",
         "children": [
           {
-            "id": "df952d3e9223353c",
+            "id": "9f17917957c61048",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8debb9086c2fb6fe",
+            "id": "ca253efc70af712a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0fccbba5047f6cd7",
+            "id": "77d4c930f8238f14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "0a9d7edbd037d3da",
+    "id": "d5059c76c1990acc",
     "type": "split",
     "children": [
       {
-        "id": "3385a7fa1a82a06c",
+        "id": "91d86ea61e54ec4a",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0d7c9259e01778",
+            "id": "d4fec0296acb5087",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c96a635d66811575",
+            "id": "7d0dda9e2773a571",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +120,7 @@
             }
           },
           {
-            "id": "2c5664fa3c129e96",
+            "id": "de3de5976beb592c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +135,7 @@
             }
           },
           {
-            "id": "e5f19574b4b028d2",
+            "id": "bbb06fa710ce21ac",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,7 +149,7 @@
             }
           },
           {
-            "id": "83bc076f2f9a4ee7",
+            "id": "330bb9d9c5e70b83",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,43 +177,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df952d3e9223353c",
+  "active": "96b83623480ffbeb",
   "lastOpenFiles": [
-    "MISC/Productivity.md",
+    "MISC/Online Business.md",
     "MISC/Real-estate Development.md",
-    "MISC/Good Reads.md",
-    "MISC/AI.md",
+    "Welcome.md",
+    "System Design/Topics/Authorization.md",
+    "System Design/Topics",
+    "System Design/README.md",
+    "System Design",
     "Religious/Topics/Last Hour.md",
-    "Pattern & Practices/Topics/TDD.md",
     "Religious/Topics",
+    "Religious/README.md",
+    "Religious",
+    "Python/README.md",
+    "Python",
+    "Pattern & Practices/Topics/TDD.md",
     "Pattern & Practices/Topics/Clean Architecture.md",
     "Pattern & Practices/Websites.md",
     "Pattern & Practices/Topics",
-    "System Design/Topics/Authorization.md",
-    "Kubernetes/Notes/Controller Tricks.md",
-    "System Design/Topics",
-    "Welcome.md",
-    "Kubernetes/Topics/Controllers.md",
-    "Kubernetes/Notes",
-    "Kubernetes/Untitled.md",
-    "Kubernetes/Topics",
-    "System Design/README.md",
-    "Religious/README.md",
-    "Python/README.md",
     "Pattern & Practices/README.md",
+    "Pattern & Practices",
     "MISC/README.md",
-    "Go/README.md",
+    "MISC/Productivity.md",
+    "MISC/Good Reads.md",
+    "MISC/AI.md",
+    "MISC",
     "Linux/README.md",
-    "Front-end & UI/README.md",
-    "Go/Books.base",
+    "Linux",
+    "Kubernetes/Notes/Controller Tricks.md",
+    "Kubernetes/Notes",
     "Go/Topics/Type Composition.md",
     "Go/Topics/Tools.md",
+    "Go/Topics/Time.md",
     "Go/Topics/Testing.md",
     "Go/Topics/Style Guide.md",
+    "Go/Topics/Software Architecture.md",
     "Go/Topics/SSH.md",
-    "Go/Topics",
-    "Front-end & UI",
-    "Religious",
-    "MISC"
+    "Go/Topics/Reflection.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas"
   ]
 }
