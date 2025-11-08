@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/Online Business.md",
+                "file": "Go/Topics/Utility Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online Business"
+              "title": "Utility Libraries"
             }
           }
         ]
@@ -177,8 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96b83623480ffbeb",
+  "active": "9f17917957c61048",
   "lastOpenFiles": [
+    "Go/Topics/Event Driven Programming.md",
+    "Go/Topics/Utility Libraries.md",
+    "Go/README.md",
+    "Go/Topics/Dependency Injection.md",
+    "Go/Topics/Tools.md",
     "MISC/Online Business.md",
     "MISC/Real-estate Development.md",
     "Welcome.md",
@@ -208,13 +213,8 @@
     "Kubernetes/Notes/Controller Tricks.md",
     "Kubernetes/Notes",
     "Go/Topics/Type Composition.md",
-    "Go/Topics/Tools.md",
     "Go/Topics/Time.md",
     "Go/Topics/Testing.md",
-    "Go/Topics/Style Guide.md",
-    "Go/Topics/Software Architecture.md",
-    "Go/Topics/SSH.md",
-    "Go/Topics/Reflection.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
